@@ -9,5 +9,6 @@ I have a attached a screenshot of the HTML output as well as a video demonstrati
 
 This program uses Node.js javascript runtime environment as well as Inquirer and jest extensions, HTML, CSS, and Javascript.  
 
-<iframe src="https://drive.google.com/file/d/1rm-yFMxVa4AzKcQCRjFuzdq44arq8IjC/preview" width="640" height="480"></iframe>
 ![2022-06-19](https://user-images.githubusercontent.com/100645317/174515060-875096c9-ba07-444a-8f5c-198ae19b3b6c.png)
+
+Here is the link to the demonstration video: https://watch.screencastify.com/v/AKT67ubd0A3S2ltc5C6H
